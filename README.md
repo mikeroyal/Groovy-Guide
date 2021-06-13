@@ -6,7 +6,14 @@
 
 #### A guide covering the Groovy programming language including the applications and tools that will make you a better and more efficient Groovy developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121819292-19a33900-cc41-11eb-84bd-00b80f3a6b47.png">
+  <br />
+</p>
+
+# Groovy Learning Resources
 
 [Apache Groovy](https://groovy-lang.org/) is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.
 
@@ -24,7 +31,7 @@
 
 [Groovy language Style guide](http://groovy-lang.org/style-guide.html)
 
-## Tools
+# Groovy Tools, Libraries, and Frameworks
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) is an IDE for Java, but it also understands and provides intelligent coding assistance for a large variety of other languages such as Kotlin, SQL, JPQL, HTML, JavaScript, etc., even if the language expression is injected into a String literal in your Java code.
 
@@ -47,3 +54,12 @@
 [Dex : The Data Explorer](https://github.com/PatMartin/Dex) is a data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 
 [Groovy-Eclipse](https://github.com/groovy/groovy-eclipse) is a project that provides Eclipse and Maven tooling support for the Apache Groovy programming language.
+
+# Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Groovy-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
